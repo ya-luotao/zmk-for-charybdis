@@ -33,7 +33,7 @@
                                                  &kp LEFT_ALT  &kp SPACE         &kp DOWN_ARROW
             >;
 
-            trackball-bindings = <&tmv_coarse>;
+
         };
 
         layer_1 {
@@ -79,7 +79,7 @@
                                       &trans     &trans       &trans
             >;
 
-            trackball-bindings = <&tsl>;//滚轮层
+
         };
 
         layer_5 {
@@ -92,7 +92,7 @@
                                       &trans     &trans       &trans
             >;
 
-            trackball-bindings = <&tmv_fine>;//精准指针层
+
         };
     };
 };
